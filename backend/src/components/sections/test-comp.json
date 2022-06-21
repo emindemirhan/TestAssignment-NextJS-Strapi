@@ -1,0 +1,12 @@
+{
+  "collectionName": "components_sections_test_comps",
+  "info": {
+    "displayName": "Test comp"
+  },
+  "options": {},
+  "attributes": {
+    "Content": {
+      "type": "richtext"
+    }
+  }
+}
